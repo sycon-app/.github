@@ -1,4 +1,5 @@
-## Hi there 👋
+## Sycon
+### Manage your containers with ease
 
 <!--
 
